@@ -154,5 +154,5 @@
     <None Include="node_modules\jquery\src\var\toString.js" />
     <None Include="node_modules\jquery\src\wrap.js" />
   </ItemGroup>
-
+  
 </Project>
